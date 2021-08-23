@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogwise</title>
+    <link>https://blogwise.github.io/</link>
+    <description>Recent content on blogwise</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Tue, 24 Aug 2021 00:15:16 +0200</lastBuildDate><atom:link href="https://blogwise.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is Post 2</title>
+      <link>https://blogwise.github.io/posts/post02/</link>
+      <pubDate>Tue, 24 Aug 2021 00:15:16 +0200</pubDate>
+      
+      <guid>https://blogwise.github.io/posts/post02/</guid>
+      <description>Hier kommt mein zweiter Post Und hier kommt der Text</description>
+    </item>
+    
+    <item>
+      <title>This is</title>
+      <link>https://blogwise.github.io/posts/post01/</link>
+      <pubDate>Tue, 24 Aug 2021 00:13:16 +0200</pubDate>
+      
+      <guid>https://blogwise.github.io/posts/post01/</guid>
+      <description>Hier kommt mein erster Post Und hier kommt der Text
+Und hier kommt ein weiterer Text
+ git clone https://github.com/mariokowalski/blogwise.github.io.git  https://github.com/mariokowalski/blogwise.github.io.git Und hier kommt noch mal Text
+Überschrift </description>
+    </item>
+    
+  </channel>
+</rss>
